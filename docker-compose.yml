@@ -3,4 +3,8 @@ services:
   back:
     build: ./back-marvel
     ports: 
-     - "3000:3000"
+     - "4000:4000"
+  front:
+    build: ./front-marvel
+    ports:
+     - "5000:5000"
