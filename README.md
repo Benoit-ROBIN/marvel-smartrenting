@@ -1,5 +1,5 @@
 ### Installation
-Dans chacun des répertoire lancer la commande   
+Dans chacun des répertoires lancer la commande   
 ```yarn install```
 
 ### Comment ça marche
